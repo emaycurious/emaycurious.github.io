@@ -2,4 +2,4 @@
 
 ### funny 9.22
 
-hello, this is my first game _blog_ 
+hello, this is my first game ~~strikethrough~~ 
